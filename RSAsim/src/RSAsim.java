@@ -1,8 +1,7 @@
 import java.math.BigInteger;
 import java.util.Random;
 
-//Shakeeb Hassan: 33529354: shakeebhassan123@hotmail.com
-//Mohamed Yassin: 33683874: yasin_warsame@hotmail.com
+
 
 public class RSAsim {
     private BigInteger p, q, n, phi, e, d;
